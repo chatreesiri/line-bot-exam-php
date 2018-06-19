@@ -3,7 +3,7 @@
 
 $access_token = 'PYQ6JnZjmx0zsmiDMyse2ieS9g6pwBoCGsFj8Xc/ZiB5To8kITV0R4FpwvdMqO5p10LCsJ2MEl137nFfPdCAjwFyV1KOPjlq69uwDvXIGo64O3G6DUEoQEayG3sHbR3sZASax9KtVmiI7NIJLKVu9QdB04t89/1O/w1cDnyilFU=';
 
-$userId = 'U35126fce90d15e892abc85fa34ea7721';
+$userId = '';
 
 $url = 'https://api.line.me/v2/bot/profile/'.$userId;
 
